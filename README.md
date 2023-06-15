@@ -1,6 +1,6 @@
-# Pacman
+# Pac-man
 
-This project is an implementation of the classic arcade game Pacman. It follows the Model-View-Controller (MVC) architectural pattern to separate the game's logic, user interface, and control flow. The user interface is built using Java Swing, providing an interactive and visually appealing experience.
+This project is an implementation of the classic arcade game Pac-man. It follows the Model-View-Controller (MVC) architectural pattern to separate the game's logic, user interface, and control flow. The user interface is built using Java Swing, providing an interactive and visually appealing experience.
 
 ## Features
 
